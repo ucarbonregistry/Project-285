@@ -15,7 +15,23 @@ generation”, version 18
 
 Sectoral Scope 01 Energy industries
 (Renewable/Non-Renewable Sources)
+____________
+The proposed project activity with the title under UCR “Ground Mounted Small Scale Solar Power
+Project by Vinati Organics Limited in Osmanabad, Maharashtra”, is a grid-connected renewable power
+generation activity which incorporates installation and operation of solar photovoltaic power generation
+project at Dahiwadi village, in Osmanabad district, in the state of Maharashtra, in India. The project has
+aggregated installed capacity of 5000 kW AC (7500 kW DC). The project is an operational activity with
+continuous reduction of GHG, currently being applied under the “Universal Carbon Registry” (UCR).
+__________________
+The project activity aims to harness Solar radiation of sun which is a renewable source, to generate
+electricity. The net generated electricity from the project activity is consumed by the manufacturing
+facility of the PP. The promoter of the project activity is ‘M/s Vinati Organics Limited’ (herein after
+called as Project Proponent or PP). PP has the 100% ownership of the project activity. In pre-project
+scenario the State utility was importing the required electricity from the NEWNE grid to meet its
+requirement of electrical energy. Currently, NEWNE grid is connected to large numbers of fossil fuelbased power plants. Hence, project activity is displacing the gross electricity generation i.e., 11589.119
 
+MWh from the NEWNE grid, which otherwise would have been imported from the grid. The project
+activity doesn’t involve any GHG emission sources. 
 _________________
 MP-01
 
