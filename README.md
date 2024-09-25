@@ -1,4 +1,8 @@
 # Project-285
+
+![](https://www.ucarbonregistry.io/Registry/Generate?code=https%3A%2F%2Fwww.ucarbonregistry.io%2FRegistry%2FDetails%3Fid%3D6T6UJ4mOiv9TeUOMMCrU6g%253D%253D&size=2)
+
+
 Ground Mounted Small Scale Solar Power Project by Vinati Organics Limited in Osmanabad, Maharashtra
 
 Project Description
